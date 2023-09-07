@@ -15,7 +15,7 @@ entries:
       show_more_text: Ver archivo...
       show_more_url: archive.html
 
-  - title: posts por categoría de 'ia'
+  - title: posts sobre 'ia'
     post_list:
       category: ia
       limit: 3
@@ -23,7 +23,7 @@ entries:
       show_more_text: Ver más posts...
       show_more_url: archive-ia.html
   
-  - title: posts por categoría de 'nuevas tecnologías'
+  - title: posts sobre 'nuevas tecnologías'
     post_list:
       category: "nuevas tecnologías"
       limit: 3
@@ -31,7 +31,4 @@ entries:
       show_more_text: Ver más posts...
       show_more_url: archive-nuevas-tecnologias.html
 
-  - title: another list
-    entries:
-      - title: acerca
-        url: about
+
