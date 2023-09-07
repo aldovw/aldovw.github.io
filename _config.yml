@@ -28,9 +28,12 @@ twitter_username: aldo_vw
 github_username:  aldovw
 
 # Build settings
-theme: no-style-please
+# theme: no-style-please
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: no-style-please
 
 # Exclude from processing.
 # The following items will not be processed, by default.
