@@ -1,0 +1,37 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: info
+    entries:
+      - title: fundador de Easybots y CEO de Clientis.
+      - title: linkedin
+        url: https://linkedin.com/in/vanweezel
+
+  - title: todos los posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: Ver archivo...
+      show_more_url: archive.html
+
+  - title: posts por categoría de 'ia'
+    post_list:
+      category: ia
+      limit: 3
+      show_more: true
+      show_more_text: Ver más posts...
+      show_more_url: archive-ia.html
+  
+  - title: posts por categoría de 'nuevas tecnologías'
+    post_list:
+      category: "nuevas tecnologías"
+      limit: 3
+      show_more: true
+      show_more_text: Ver más posts...
+      show_more_url: archive-nuevas-tecnologias.html
+
+  - title: another list
+    entries:
+      - title: acerca
+        url: about
