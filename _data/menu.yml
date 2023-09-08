@@ -13,7 +13,7 @@ entries:
       limit: 5
       show_more: true
       show_more_text: Ver archivo...
-      show_more_url: archive.html
+      show_more_url: archive/
 
   - title: posts sobre 'ia'
     post_list:
@@ -21,7 +21,7 @@ entries:
       limit: 3
       show_more: true
       show_more_text: Ver más posts...
-      show_more_url: archive-ia.html
+      show_more_url: archive-ia/
   
   - title: posts sobre 'nuevas tecnologías'
     post_list:
@@ -29,6 +29,6 @@ entries:
       limit: 3
       show_more: true
       show_more_text: Ver más posts...
-      show_more_url: archive-nuevas-tecnologias.html
+      show_more_url: archive-nuevas-tecnologias/
 
 
