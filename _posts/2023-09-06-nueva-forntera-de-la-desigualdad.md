@@ -28,4 +28,4 @@ La IA tiene el poder de cambiar nuestro mundo, pero también el potencial de cre
 Así que dime, ¿qué piensas sobre este creciente problema de desigualdad digital? ¿Tienes soluciones en mente? ¡Vamos, comparte tus pensamientos!
 
 Hasta la próxima,
-
+Aldo
