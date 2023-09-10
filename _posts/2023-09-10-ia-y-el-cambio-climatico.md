@@ -2,6 +2,7 @@
 layout: post
 category: ia
 title: "La IA y el Cambio Climático: ¡El Dúo Dinámico contra la Catástrofe! 🌍🤖"
+comments: true
 ---
 
 

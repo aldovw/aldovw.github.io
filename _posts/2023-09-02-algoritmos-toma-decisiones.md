@@ -2,6 +2,7 @@
 layout: post
 title: "Algoritmos de Toma de Decisiones: ¿Son un Libro Abierto o una Caja Negra?"
 category: ia
+comments: true
 ---
 
 ¡Hola a todos! 🌟

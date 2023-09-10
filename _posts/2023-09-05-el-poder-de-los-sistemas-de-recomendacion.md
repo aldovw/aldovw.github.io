@@ -2,6 +2,7 @@
 layout: post
 category: ia
 title: "Más Allá de \"Porque Viste\": Descubre el Poder de los Sistemas de Recomendación"
+comments: true
 ---
 
 ¡Hola, chic@s del ciberespacio! 🌠

@@ -2,6 +2,7 @@
 layout: post
 category: ia
 title: "Imágenes, Videos y... ¿Magia Digital? 🎥✨"
+comments: true
 ---
 
 

@@ -2,6 +2,7 @@
 layout: post
 title: "La Ética en la Inteligencia Artificial: Un Llamado a los Directorios de Empresas"
 category: ia
+comments: true
 ---
 
 Hola a todos,

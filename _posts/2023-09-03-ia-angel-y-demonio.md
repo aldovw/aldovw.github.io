@@ -2,6 +2,7 @@
 layout: post
 title: "IA: El Ángel y el Demonio en el Mundo Empresarial"
 category: ia
+comments: true
 ---
 
 

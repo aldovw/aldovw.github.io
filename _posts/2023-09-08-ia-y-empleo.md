@@ -2,6 +2,7 @@
 layout: post
 category: ia
 title: "IA y Empleo: ¿Amigos o Enemigos? La Verdad Detrás del Futuro del Trabajo 🤖💼"
+comments: true
 ---
 
 ¡Hey, aventureros del ciberespacio! 🚀 ¿Listos para desentrañar un misterio que nos afecta a todos? Nos adentramos en el universo de la Inteligencia Artificial (IA) y su relación con el mundo laboral. ¡Pon tu casco y prepárate para un viaje al futuro (o mejor dicho, al presente)! 🌌

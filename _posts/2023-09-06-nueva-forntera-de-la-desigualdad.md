@@ -2,6 +2,7 @@
 layout: post
 category: ia
 title: "La Nueva Frontera de la Desigualdad: ¿Cómo la IA está Ampliando la Brecha Digital?"
+comments: true
 ---
 
 Hey, amigos de la era digital. 🚀 ¿Listos para un tema un poco más serio pero super relevante? Hoy vamos a hablar sobre la inteligencia artificial (IA) y cómo, irónicamente, su increíble potencial para el progreso podría estar creando una nueva era de desigualdad. Sí, lo leíste bien. Agárrate, porque esto se va a poner interesante.

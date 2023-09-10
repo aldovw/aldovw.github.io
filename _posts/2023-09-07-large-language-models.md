@@ -2,6 +2,7 @@
 layout: post
 category: ia
 title: "Large Language Models: ¿El mago detrás de la cortina? 🎩🤖"
+comments: true
 ---
 
 
